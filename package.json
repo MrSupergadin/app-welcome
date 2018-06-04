@@ -2,7 +2,7 @@
   "name": "Welcome Bot",
   "version": "1.0.0",
   "description": "Frenezy bot by Gadin",
-  "main": "index.js",
+  "main": "node bot.js",
   "dependencies": {
     "discord.js": "^11.3.2",
     "ffmpeg-binaries": "^3.2.2-3",
