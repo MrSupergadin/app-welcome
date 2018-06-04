@@ -2,7 +2,7 @@
   "name": "Welcome Bot",
   "version": "1.0.0",
   "description": "Frenezy bot by Gadin",
-  "main": "node bot.js",
+  "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.3.2",
     "ffmpeg-binaries": "^3.2.2-3",
@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "node bot.js"
   },
   "author": "MrSupergadin",
   "license": "ISC"
